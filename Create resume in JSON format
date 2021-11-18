@@ -1,0 +1,11 @@
+var resume={
+    "Name" : ":"+"Elavarasi",
+    "Qualification" : ":"+"B.Tech-IT",
+    "Passed out Year" : ":"+"2015",
+    "Experience" : ":"+"4",
+    "email" : ":"+"d.elavarasi1994@gmail.com"
+}
+for(var i in resume)
+{
+    console.log(i,resume[i])
+}
